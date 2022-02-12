@@ -1,0 +1,8 @@
+torch
+jupyterlab
+matplotlib
+seaborn
+tqdm
+-e git://github.com/nla-group/ABBA.git#egg=ABBA
+coverage==4.5.4
+keras
